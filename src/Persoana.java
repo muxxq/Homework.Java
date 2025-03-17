@@ -16,6 +16,4 @@ public class Persoana {
                 ", oras='" + oras + '\'' +
                 '}';
     }
-
-    // Alte metode ale clasei...
 }
